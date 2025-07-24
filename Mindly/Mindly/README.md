@@ -39,8 +39,8 @@ Gli psicologi, invece, hanno accesso a un’area riservata in cui possono:
 - Koyeb per hosting backend e database PostgreSQL
 - GitHub per il versionamento del codice
 
-## 👩‍💻 Autrice
+##  Autrice
 
 **Chiara Sanasi**  
-📧 chiarasanasi.work@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/chiarasanasi/)
+ chiarasanasi.work@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/chiarasanasi/)
