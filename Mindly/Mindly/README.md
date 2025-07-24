@@ -39,6 +39,20 @@ Gli psicologi, invece, hanno accesso a un’area riservata in cui possono:
 - Koyeb per hosting backend e database PostgreSQL
 - GitHub per il versionamento del codice
 
+
+## Configurazione dell'ambiente locale
+
+Per avviare correttamente il backend in locale, è **obbligatorio** creare un file chiamato `env.properties` nella directory principale del progetto.
+
+Questo file contiene le variabili di ambiente necessarie per la connessione al database e per la gestione dei token JWT.
+
+### Esempio di `env.properties`
+
+pgUrl=jdbc:postgresql://localhost:5432/Mindly
+postgresqlpassword=laTuaPasswordQui
+jwtSecretKey=laTuaChiaveSegretaQui
+
+
 ##  Autrice
 
 **Chiara Sanasi**  
