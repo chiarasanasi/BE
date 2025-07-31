@@ -2,8 +2,8 @@
 
 Questo è il backend del progetto **Mindly**, una piattaforma fullstack ispirata a servizi come [unoBravo](https://www.unobravo.com/) e [Serenis](https://www.serenis.it/), pensata per mettere in contatto utenti e psicologi.
 
-**Link repository frontend**: [https://github.com/chiarasanasi/FE](https://github.com/chiarasanasi/FE)  
-**Link repository backend**: [https://github.com/chiarasanasi/BE](https://github.com/chiarasanasi/BE)
+**Link repository frontend**: [https://github.com/chiarasanasi/MindlyFE](https://github.com/chiarasanasi/FE)  
+**Link repository backend**: [https://github.com/chiarasanasi/MindlyBE](https://github.com/chiarasanasi/BE)
 
 
 ## Presentazione del progetto
