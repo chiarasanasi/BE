@@ -33,13 +33,6 @@ Gli psicologi, invece, hanno accesso a un’area riservata in cui possono:
 - Lombok
 - Test su Postman
 
-
-## Deploy
-
-- Koyeb per hosting backend e database PostgreSQL
-- GitHub per il versionamento del codice
-
-
 ## Configurazione dell'ambiente locale
 
 Per avviare correttamente il backend in locale, è **obbligatorio** creare un file chiamato `env.properties` nella directory principale del progetto.
